@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:news2/views/home_view.dart';
-// import 'package:news_app/services/news_service.dart';
-// import 'package:news_app/views/home_view.dart';
 import 'package:dio/dio.dart';
 
 void main() {

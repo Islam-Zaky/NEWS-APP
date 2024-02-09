@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:news2/models/category_model.dart';
 import 'package:news2/widgets/category_card.dart';
-// import 'package:news_app/models/category_model.dart';
-// import 'package:news_app/widgets/category_card.dart';
 
 class CategoriesListView extends StatelessWidget {
   const CategoriesListView({
