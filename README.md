@@ -12,5 +12,8 @@
 https://github.com/Islam-Zaky/basketball/assets/49339964/e3d099a1-94d8-4897-8fa6-0b6130e9ea4a
 
 # Screenshots
-<img width="174" alt="basketball 0" src="https://github.com/Islam-Zaky/basketball/assets/49339964/a472a207-ed1b-45fa-8745-ffb4543378f1">
-<img width="181" alt="basketball 1" src="https://github.com/Islam-Zaky/basketball/assets/49339964/a9897ff7-03fc-49b0-ad62-83ec9344ff78">
+![2](https://github.com/Islam-Zaky/NEWS-APP/assets/49339964/0327d63b-cfbf-4987-b287-5dd92a8e3246)
+
+![3](https://github.com/Islam-Zaky/NEWS-APP/assets/49339964/52c0fdf3-a78d-476b-8d4d-2e7a95b91987)
+
+![4](https://github.com/Islam-Zaky/NEWS-APP/assets/49339964/7375c69c-7ce9-4457-ba44-4dc0d6cd0b37)
