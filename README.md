@@ -7,10 +7,6 @@
 - Do request and get JSON response from API by DIO package.
 - Using SliverList and FutureBuilder.
 
-# Demo
-https://github.com/Islam-Zaky/NEWS-APP/assets/49339964/1a213262-9516-4ddb-9c6a-d4897a58c102
-
-
 
 # Screenshots
 ![f  200  320](https://github.com/Islam-Zaky/NEWS-APP/assets/49339964/d382eb05-5e1c-4d94-b2ce-ec23a1a0b90c)
@@ -19,4 +15,6 @@ https://github.com/Islam-Zaky/NEWS-APP/assets/49339964/1a213262-9516-4ddb-9c6a-d
 ![4-ezgif com-resize](https://github.com/Islam-Zaky/NEWS-APP/assets/49339964/7dd30c61-9b35-4b21-b7cd-7ddde2034b95)
 
 
+# Demo
+https://github.com/Islam-Zaky/NEWS-APP/assets/49339964/1a213262-9516-4ddb-9c6a-d4897a58c102
 
