@@ -12,6 +12,7 @@ https://github.com/Islam-Zaky/NEWS-APP/assets/49339964/2c1f0768-4086-4899-ac96-c
 
 
 # Screenshots
-![111](https://github.com/Islam-Zaky/NEWS-APP/assets/49339964/ff0bbd94-3f40-4893-b02a-eb4861efdc45)
+![f](https://github.com/Islam-Zaky/NEWS-APP/assets/49339964/2ce205ec-c6ac-4dbd-83c3-1ac31427f040)
+
 
 
