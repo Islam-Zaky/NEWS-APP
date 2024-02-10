@@ -14,6 +14,5 @@ https://github.com/Islam-Zaky/NEWS-APP/assets/49339964/a44ea0b4-d5fa-44e6-b956-b
 # Screenshots
 ![2](https://github.com/Islam-Zaky/NEWS-APP/assets/49339964/0327d63b-cfbf-4987-b287-5dd92a8e3246)
 
-![3](https://github.com/Islam-Zaky/NEWS-APP/assets/49339964/52c0fdf3-a78d-476b-8d4d-2e7a95b91987)
+![11](https://github.com/Islam-Zaky/NEWS-APP/assets/49339964/5078c3dd-2d36-4563-9030-9f629db95235)
 
-![4](https://github.com/Islam-Zaky/NEWS-APP/assets/49339964/7375c69c-7ce9-4457-ba44-4dc0d6cd0b37)
