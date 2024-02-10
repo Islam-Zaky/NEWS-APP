@@ -9,7 +9,9 @@
 
 # Demo
 
-[https://github.com/Islam-Zaky/basketball/assets/49339964/e3d099a1-94d8-4897-8fa6-0b6130e9ea4a](https://github.com/Islam-Zaky/NEWS-APP/assets/49339964/8351d6c9-3602-4b1f-ab45-a9d6e254261b
+[[[https://github.com/Islam-Zaky/basketball/assets/49339964/e3d099a1-94d8-4897-8fa6-0b6130e9ea4a](https://github.com/Islam-Zaky/NEWS-APP/assets/49339964/8351d6c9-3602-4b1f-ab45-a9d6e254261b
+)](https://github.com/Islam-Zaky/NEWS-APP/assets/49339964/961ac882-e43f-4022-873b-0c8bf4da4e1d
+)](https://github.com/Islam-Zaky/NEWS-APP/assets/49339964/961ac882-e43f-4022-873b-0c8bf4da4e1d
 )
 
 # Screenshots
