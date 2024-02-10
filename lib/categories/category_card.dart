@@ -1,7 +1,7 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:news2/models/category_model.dart';
-import 'package:news2/views/category_view.dart';
+import 'package:news2/categories/category_model.dart';
+import 'package:news2/builder_view.dart';
 
 class CategoryCard extends StatelessWidget {
   const CategoryCard({super.key, required this.category});

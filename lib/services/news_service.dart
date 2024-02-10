@@ -1,6 +1,6 @@
 import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
-import 'package:news2/models/article_model.dart';
+import 'package:news2/news/new_model.dart';
 
 class NewsService {
   final Dio dio;

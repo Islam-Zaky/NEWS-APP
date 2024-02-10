@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:news2/widgets/news_listview_builder.dart';
+import 'package:news2/news_listview_builder.dart';
 // import 'package:news_app/widgets/news_list_view.dart';
 // import 'package:news_app/widgets/news_listview_builder.dart';
 

@@ -1,8 +1,8 @@
 import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
-import 'package:news2/models/article_model.dart';
+import 'package:news2/news/new_model.dart';
 import 'package:news2/services/news_service.dart';
-import 'package:news2/widgets/news_list_view.dart';
+import 'package:news2/news/news_list_view.dart';
 
 class NewsListViewBuilder extends StatefulWidget {
   final String category;

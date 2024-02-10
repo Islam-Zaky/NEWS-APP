@@ -1,7 +1,7 @@
 import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
-import 'package:news2/widgets/categories_listview.dart';
-import 'package:news2/widgets/news_listview_builder.dart';
+import 'package:news2/categories/categories_listview.dart';
+import 'package:news2/news_listview_builder.dart';
 
 class HomeView extends StatelessWidget {
   const HomeView({super.key});

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:news2/views/home_view.dart';
+import 'package:news2/home_view.dart';
 import 'package:dio/dio.dart';
 
 void main() {
