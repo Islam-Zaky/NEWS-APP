@@ -8,7 +8,7 @@
 - Using SliverList and FutureBuilder.
 
 # Demo
-https://github.com/Islam-Zaky/NEWS-APP/assets/49339964/961ac882-e43f-4022-873b-0c8bf4da4e1d
+https://github.com/Islam-Zaky/NEWS-APP/assets/49339964/a44ea0b4-d5fa-44e6-b956-b897b2982472
 
 
 # Screenshots
