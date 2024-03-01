@@ -4,7 +4,7 @@
 
 # Learned
 
-- Do request and get JSON response from API by DIO package.
+- Using DIO package to get response from API.
 - Using SliverList and FutureBuilder.
 
 
